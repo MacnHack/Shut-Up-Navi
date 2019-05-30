@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1559232712 source:c:\users\mache\desktop\shutupnavi2.0\fichiers.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"constantes.h"
+	"fichiers.h"
+
+1559038198 source:c:\users\mache\desktop\shutupnavi2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"SDL2/SDL_image.h"
+	"constantes.h"
+	"fichiers.h"
+
+1559004749 c:\users\mache\desktop\shutupnavi2.0\constantes.h
+
+1559156570 c:\users\mache\desktop\shutupnavi2.0\fichiers.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"SDL2/SDL_image.h"
+	"constantes.h"
+	"jeu.h"
+
+1559156603 c:\users\mache\desktop\shutupnavi2.0\jeu.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"SDL2/SDL_image.h"
+	"constantes.h"
+
+1559232284 source:c:\users\mache\desktop\shutupnavi2.0\jeu.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	"SDL2/SDL_image.h"
+	"fichiers.h"
+	"constantes.h"
+	"jeu.h"
+
